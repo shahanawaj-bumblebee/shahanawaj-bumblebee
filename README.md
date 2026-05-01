@@ -14,7 +14,7 @@
 
 ## 🚀 Professional Summary
 
-- 💡 Proactive and innovative **Machine Learning Backend Engineer** with hands-on expertise in Python, Django, and scalable AI solutions.
+- 💡 Proactive and innovative **Software Engineer** with hands-on expertise in Python, Django, and scalable AI solutions.
 - 🛠️ Track record of building impactful, production-ready ML systems that automate business workflows and unlock new insights.
 - 🏆 Recognized for consistently delivering high-quality code and exceeding project goals in dynamic, fast-paced environments.
 - 🤝 Collaborative, always open to knowledge sharing, mentorship, and teamwork.
