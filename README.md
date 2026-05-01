@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taroon-git&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/badge/AI%20Backend%20Developer-%F0%9F%92%BB-blue" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%92%BB-blue" alt="Full Stack Developer"/>
   <img src="https://img.shields.io/badge/AI%20RealEstate%20App-%F0%9F%8F%A0-orange" alt="AI RealEstate App"/>
 </p>
 
