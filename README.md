@@ -30,7 +30,7 @@
 - **Languages:** Python, Java, C, NLP
 - **Frameworks:** Django, Flask , React.js
 - **Web Scraping:** Selenium, Beautiful Soup, Requests
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, TensorFlow
+- **Libraries:** Pandas, NumPy, Seaborn, TensorFlow
 - **Visualization:** PowerBI, Tableau
 - **Platforms:** AWS, Apache Spark, Google Colab, Ubuntu, VS Code, PyCharm, Excel
 - **Other:** MySQL,Data Lakes
